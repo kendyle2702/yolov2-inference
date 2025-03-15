@@ -14,12 +14,12 @@ I recommend you to use python >= 3.9 to run project.
 Clone with HTTPS
 ```bash
   git clone https://github.com/kendyle2702/yolov2-inference.git
-  cd pis
+  cd yolov2-inference
 ```
 Clone with SSH
 ```bash
   git clone git@github.com:kendyle2702/yolov2-inference.git
-  cd pis
+  cd yolov2-inference
 ```
 
 ### **2️⃣ Install Library**
